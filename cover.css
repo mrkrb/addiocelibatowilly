@@ -39,12 +39,50 @@ body {
 }
 
 .background1 {
-  background-image: url('./pics/pic1.jpg'); background-repeat: no-repeat; background-position: center center;
+  background-image: url('./pics/pic2.jpg'); background-repeat: no-repeat; background-position: center center;
 }
 
 .background2 {
-  background-image: url('./pics/pic2.jpg'); background-repeat: no-repeat; background-position: center center;
+  background-image: url('./pics/pic3.jpg'); background-repeat: no-repeat; background-position: center center;
 }
+
+.background3 {
+  background-image: url('./pics/pic4.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background4 {
+  background-image: url('./pics/pic5.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background5 {
+  background-image: url('./pics/pic6.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background6 {
+  background-image: url('./pics/pic7.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background7 {
+  background-image: url('./pics/pic8.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background8 {
+  background-image: url('./pics/pic9.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background9 {
+  background-image: url('./pics/pic10.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background10 {
+  background-image: url('./pics/pic11.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+.background11 {
+  background-image: url('./pics/pic12.jpg'); background-repeat: no-repeat; background-position: center center;
+}
+
+
 
 .cover-container {
   max-width: 42em;

@@ -9,7 +9,7 @@ frasi = ["Sono cotto a puntino per te, bella pollastra 🐔",
          "Hei bella pollastrella sono disposto a farmi spennare da te 💶💶  se dopo tu ti fai spennare da me 😉😉. Che ne dici?"   
          ];
 
-var classCycle=['background1','background2'];
+var classCycle=['background1','background2','background3','background4','background5','background6','background7','background8','background9','background10','background11'];
 
 function ottieniFrase() {
   var randomNumber = Math.floor(Math.random() * frasi.length);
